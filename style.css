@@ -1075,3 +1075,11 @@ h4 {
     margin: auto;
     text-align: center;
 }
+
+.col-sm-12 h1 {
+    color:white !important;
+}
+
+.col-sm-12 p {
+    color: white !important;
+}
