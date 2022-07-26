@@ -653,7 +653,9 @@ a {
     font-weight: 400;
     color: #575757!important;
 }
-
+.col-sm-4 li a {
+    color: white!important;
+}
 .container {
     max-width: 1000px;
 }
@@ -771,15 +773,19 @@ h4 {
 }
 
 .bgc-atomic-tangerine {
-    background-color: #F3976C;
+    background-color: #bb4e1b;
 }
 
 .tc-white {
     color: #F3976C!important;
 }
 
+.tc_white {
+    color: white !important;;
+}
+
 .btn-atomic-tangerine {
-    background: #F3976C;
+    background: #bb4e1b;
     color: #FFFFFF!important;
 }
 
